@@ -3,11 +3,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AMP Stories](https://img.shields.io/badge/Amp%20Stories-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 # Descrição do Projeto
 ![IFAQ](./Landing-Page-IFAQ.png)
-
 
 O IFAQ é um aplicação desenvolvido no intuito de disponibilizar respostas para questões frequentes a respeito do IFSP Câmpus Itapetininga. Nele existe uma serie de perguntas, pré-definidas, que ao serem selecionadas são lidas e em seguida respondidas através de audio. Utilizando-se das bibliotecas SwiperJS e AnimateCsss e as tecnologias HTML, CSS, JavaScritp e NodeJS.
 
@@ -15,7 +14,7 @@ O IFAQ é um aplicação desenvolvido no intuito de disponibilizar respostas par
 Status: Finalizado
 
 # Funcionalidades e Demonstração da Aplicação
-Afim de que as perguntas fossem faladas se utilizou a API "Web Speech API", atraves da interface "SpeechSynthesisUtterance", nativa da ferramenta. Nela é possivel informar um texto, a velocidade de leitura e o tom da voz, para haver a repodução da fala.
+Afim de que as perguntas fossem faladas, utiliza-se a voz de vários personagens e fosse atrativo para o público atual, foi utilizada a tecnologia AMP Stories.
 
 # Instruções de Uso
 Para acessar o IFAQ localmente, deve ser feito o clonamento deste repositório.
