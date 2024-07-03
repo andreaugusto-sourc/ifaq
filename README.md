@@ -3,7 +3,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AMP Stories](https://img.shields.io/badge/AMPStories-005AF0?style=for-the-badge&logo=amp&logoColor=white)
+![AMP Stories](https://img.shields.io/badge/Amp%20Stories-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 # Descrição do Projeto
 ![IFAQ](./Landing-Page-IFAQ.png)
