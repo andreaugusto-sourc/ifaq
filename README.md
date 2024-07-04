@@ -34,4 +34,4 @@ E basta acessar a hospedagem local.
 # Contribuição/Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/164426945?v=4" width=115><br><sub>Marcos Kauan Soares de Medeiros</sub>](https://github.com/MarcosFabSoftware)| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/165536121?v=4" width=115><br><sub>Joni Emannuel Albuquerque Pinheiro</sub>](https://github.com/JoniEmann) |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/166057576?v=4" width=115><br><sub>Luma Karoline de Siqueira</sub>](https://github.com/maLu70) | 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/71268759?v=4" width=115><br><sub>Leonardo Domingos da Luz</sub>](https://github.com/leonardoDluz)| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/77406727?v=4" width=115><br><sub>André Augusto</sub>](https://github.com/andreaugusto-sourc) |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/107441401?v=4" width=115><br><sub>João Pedro Martins</sub>](https://github.com/Martins-pedro23) |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
