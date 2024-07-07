@@ -6,9 +6,9 @@
 ![AMP Stories](https://img.shields.io/badge/Amp%20Stories-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 # Descrição do Projeto
-![IFAQ](./Landing-Page-IFAQ.png)
+![IFAQ](./IFAQ.png)
 
-O IFAQ é um aplicação desenvolvido no intuito de disponibilizar respostas para questões frequentes a respeito do IFSP Câmpus Itapetininga. Nele existe uma serie de perguntas, pré-definidas, que ao serem selecionadas são lidas e em seguida respondidas através de audio. Utilizando-se das bibliotecas SwiperJS e AnimateCsss e as tecnologias HTML, CSS, JavaScritp e NodeJS.
+O IFAQ é um aplicação desenvolvido no intuito de disponibilizar respostas para questões frequentes a respeito do IFSP Câmpus Itapetininga. Nele existe uma serie de perguntas, pré-definidas, onde você pode escolher um personagem e elas serão lidas e em seguida respondidas através de audio. Utilizando-se das tecnologias HTML, CSS, JavaScript e AMP Stories.
 
 # Status do Projeto
 Status: Finalizado
@@ -34,3 +34,4 @@ E basta acessar a hospedagem local.
 # Contribuição/Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/164426945?v=4" width=115><br><sub>Marcos Kauan Soares de Medeiros</sub>](https://github.com/MarcosFabSoftware)| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/165536121?v=4" width=115><br><sub>Joni Emannuel Albuquerque Pinheiro</sub>](https://github.com/JoniEmann) |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/166057576?v=4" width=115><br><sub>Luma Karoline de Siqueira</sub>](https://github.com/maLu70) |
 | :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/71268759?v=4" width=115><br><sub>Leonardo Domingos da Luz</sub>](https://github.com/leonardoDluz)| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/77406727?v=4" width=115><br><sub>André Augusto</sub>](https://github.com/andreaugusto-sourc) |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/107441401?v=4" width=115><br><sub>João Pedro Martins</sub>](https://github.com/Martins-pedro23) |
